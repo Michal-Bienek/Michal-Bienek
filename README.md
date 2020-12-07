@@ -1,9 +1,9 @@
 ### Welcome to my profile👋
 
 <br>
-- 🎓 I'm studying computer science at the University of Economics in Katowice
+🎓 I'm studying computer science at the University of Economics in Katowice
 <br>
-- 🔭 I’m currently working on "empolyee management system"
+🔭 I’m currently working on "empolyee management system"
 <br>
 <h3><b>Languages and tools I’m currently using: </b></h3>
 <br>
