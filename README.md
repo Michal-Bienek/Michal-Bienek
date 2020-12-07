@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🎓 I'm studying computer science at the University of Economics in Katowice
 - 🔭 I’m currently working on "empolyee management system"
 <br>
-<h1><b>I’m currently learning: </b></h1>
+<h2><b>I’m currently learning: </b></h2>
 <br>
 <p><img heigt="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img heigt="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
