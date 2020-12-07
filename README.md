@@ -1,4 +1,5 @@
 ### Welcome to my profile👋
+<h1><b>Welcome to my profile👋</b></h1>
 
 <br>
 🎓 I'm studying computer science at the University of Economics in Katowice
