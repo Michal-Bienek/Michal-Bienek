@@ -15,6 +15,7 @@
   <h3><b>Languages and tools I’m currently learning: </b></h3>
   <p>
   <img heigt="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+  <img heigt="30" width="30" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"/>
   </p>
 <br>
   <h3><b>Languages and tools I was learning: </b></h3>
