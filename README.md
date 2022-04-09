@@ -4,12 +4,11 @@
 <br>
 🎓 I'm studying computer science at the University of Economics in Katowice
 <br>
-🔭 I’m currently working on "empolyee management system"
-<br>
 <h3><b>Languages and tools I’m currently using: </b></h3>
 <br>
 <p>
   <img heigt="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+  <img heigt="30" width="30" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"/>
   </p>
   <br>
   <h3><b>Languages and tools I’m currently learning: </b></h3>
