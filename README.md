@@ -35,7 +35,6 @@
   </p>
   <br>
   <br>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Michal-Bienek)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
