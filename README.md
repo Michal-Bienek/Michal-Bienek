@@ -33,5 +33,8 @@
   <img heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
   </p>
+  <br>
+  <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michal-Bienek)](https://github.com/Michal-Bienek/github-readme-stats)
   
 
